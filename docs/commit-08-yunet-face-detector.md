@@ -27,7 +27,7 @@ fitur wajah yang lebih general.
   di OpenCV dan cukup akurat untuk use case single-face real-time ini
 
 ## Kendala
-- (isi sesuai pengalaman kamu)
+---
 
 ## Cara menjalankan
 ```bash

@@ -19,7 +19,7 @@
 - Threshold yang digunakan: 70
 
 ## Kendala
-- (isi sesuai pengalaman kamu)
+---
 
 ## Cara menjalankan
 ```bash

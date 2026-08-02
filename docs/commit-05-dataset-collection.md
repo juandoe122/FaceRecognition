@@ -15,7 +15,7 @@
   masuk repository publik)
 
 ## Kendala
-- (isi sesuai pengalaman kamu)
+---
 
 ## Cara menjalankan
 ```bash

@@ -17,7 +17,7 @@
   di-generate ulang dari dataset kapan saja
 
 ## Kendala
-- (isi sesuai pengalaman kamu)
+---
 
 ## Cara menjalankan
 ```bash
