@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Project-specific: dont commit foto and hasil training
+dataset/*
+!dataset/.gitkeep
+trainer/*
+!trainer/.gitkeep
