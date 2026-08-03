@@ -223,3 +223,6 @@ dataset/*
 !dataset/.gitkeep
 trainer/*
 !trainer/.gitkeep
+
+enroll_photos/**
+!enroll_photos/.gitkeep

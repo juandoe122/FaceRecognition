@@ -37,7 +37,7 @@ frame_width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
 frame_height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
 detector.setInputSize((frame_width, frame_height))
 
-TARGET_SAMPLES = 5
+TARGET_SAMPLES = 10
 collected_features = []
 
 print(f"\nMulai enrollment untuk '{person_name}'")
